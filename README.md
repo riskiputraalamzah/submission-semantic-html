@@ -41,7 +41,7 @@
 35.
 36.
 37.
-38.
+38. Syamsurizal Dwi Nur Aliansyah [link](https://github.com/Castys/semantik-11RPL-38)
 39.
 40.
 41.
