@@ -5,7 +5,7 @@
 ---
 # Harus urut sesuai dengan No Absen  
 1.
-2. abrisyan ahnaf santoso - [https://github.com/checksam/semantic---html](https://github.com/checksam/semantic---html)
+2. abrisyan ahnaf santoso - [link](https://github.com/checksam/semantic---html)
 3.
 4.
 5.
@@ -41,11 +41,11 @@
 35.
 36.
 37.
-38. Syamsurizal Dwi Nur Aliansyah [link](https://github.com/Castys/semantik-11RPL-38)
+38. (revisi)
 39.
 40.
 41.
 42.
 43.
-44. Zaky avriano nugroho [link](https://github.com/jeckyy234/tokenby-Zaky/tree/master)
+44. (revisi)
 45.
