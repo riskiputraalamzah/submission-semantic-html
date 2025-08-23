@@ -35,7 +35,7 @@
 28.
 29.
 30.
-31.
+31.Rafi ihsanuddin wafa ganteng - [link}(https://github.com/Yagami-wafa/semantik)
 32.
 33.
 34.
