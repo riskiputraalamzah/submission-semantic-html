@@ -1,7 +1,8 @@
 # SUBMISSION SEMANTIC HTML
 ## Format pengumpulan : Nama Kalian - Link Pengumpulan (berupa github)
-### contoh format : Andi - [https://github.com/usernamegithubkalian/semantic-html](https://urlgithubkalian/usernamegithubkalian/semantic-html) 
-#### contoh format punya saya : Putra : [https://github.com/indekslink/semantic-html](https://github.com/indekslink/semantic-html)
+### contoh format : 1. Putra - [link](https://github.com/indekslink/semantic-html)
+*setelah angka. (no absen) jangan lupa kasih spasi ya !!!
+
 ---
 # Harus urut sesuai dengan No Absen  
 1.
