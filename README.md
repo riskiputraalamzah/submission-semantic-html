@@ -1,6 +1,6 @@
 # submission-semantic-html
 ## Nama Kalian - Link Pengumpulan (berupa github)
-### contoh format : Andi - [https://github.com/usernamegithubkalian/semantic-html](https://urlgithubkalian) 
+### contoh format : Andi - [https://github.com/usernamegithubkalian/semantic-html](https://urlgithubkalian/usernamegithubkalian/semantic-html) 
 1.
 2.
 3.
