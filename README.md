@@ -43,7 +43,7 @@
 36.
 37.
 38. (revisi)
-39.
+39. Tiara Putri - [link](https://github.com/Tiaranara/SEMANTIC-)
 40.
 41.
 42.
