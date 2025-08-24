@@ -25,7 +25,7 @@
 18.
 19.
 20. Mochammad Aldiansyah - [link](https://github.com/aldigakure/SEMANTIK_HTML)
-21.
+21. Nindar Deo - [link](https://github.com/Nindar-txr/semantic)
 22.
 23.
 24.
