@@ -48,5 +48,5 @@
 41.
 42.
 43.
-44. (revisi)
+44. Zaky Avriano N - [link](https://github.com/jeckyy234/44-semantik)
 45.
