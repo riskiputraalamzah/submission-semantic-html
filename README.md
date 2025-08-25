@@ -42,7 +42,7 @@
 35.
 36.
 37.
-38. (revisi)
+38. syamsurizal - [link](https://github.com/Castys/Semantik-38)
 39. Tiara putri - [link](https://github.com/Tiaranara/SEMANTIC-)
 40.
 41.
