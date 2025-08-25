@@ -9,7 +9,7 @@ Cara mengisi:
 
 ---
 
-| No | Nama                     | Link |
+| No Absen | Nama                     | Link |
 |----|--------------------------|------|
 | 1  |                          |      |
 | 2  | abrisyan ahnaf santoso   | [link](https://github.com/checksam/semantic---html) |
