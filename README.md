@@ -53,7 +53,7 @@ Cara mengisi:
 | 40 |                          |      |
 | 41 |                          |      |
 | 42 |                          |      |
-| 43 |                          |      |
+| 43 | Yoga pratama             | [link] (https://github.com/YogaPratama936/semantik-html)|
 | 44 | Zaky Avriano N           | [link](https://github.com/jeckyy234/44-semantik) |
 | 45 |                          |      |
 
